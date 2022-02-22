@@ -1,0 +1,2 @@
+en registro carnaval, con más de una opción el poner name igual no hace que sean opciones excluyentes.
+En formato requerido de contraseña, no me funciona.
